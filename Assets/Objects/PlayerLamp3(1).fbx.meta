@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: ad974508945214744b78b3c884e3eab0
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: PlayerLamp3(1)(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: 0.047836788, y: 2.7745345, z: -0.0000003727832}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 80.01111}
+    - name: Cube.001
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: 0.047836788, y: 1.0896945, z: 0.0010676498}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 69.43539, y: 69.43539, z: 38.90116}
+    - name: Plane
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: -0.80534667, y: 2.4035482, z: 0.28211254}
+      rotation: {x: -0.41825405, y: -0.41825405, z: 0.5701435, w: 0.5701434}
+      scale: {x: 15.961512, y: 19.429941, z: 15.961516}
+    - name: Plane.001
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: -0.8266379, y: 2.5760381, z: 0.22100186}
+      rotation: {x: -0.41825402, y: -0.41825402, z: 0.57014346, w: 0.5701435}
+      scale: {x: 7.344567, y: 8.940535, z: 7.344569}
+    - name: Plane.002
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: -0.7830866, y: 2.346705, z: 0.35935763}
+      rotation: {x: -0.41825402, y: -0.41825402, z: 0.57014346, w: 0.5701435}
+      scale: {x: 3.6671314, y: 5.555426, z: 4.5637307}
+    - name: Plane.003
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: -0.8206437, y: 2.3573852, z: -0.27225703}
+      rotation: {x: 0.5791925, y: 0.5791925, z: -0.4056304, w: -0.4056304}
+      scale: {x: 3.6671314, y: 5.555426, z: 4.5637307}
+    - name: Plane.004
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: -0.771058, y: 2.5867183, z: -0.4085666}
+      rotation: {x: 0.5791925, y: 0.5791925, z: -0.40563038, w: -0.40563044}
+      scale: {x: 7.344567, y: 8.940535, z: 7.344569}
+    - name: Plane.005
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: -0.79132855, y: 2.4142284, z: -0.34710974}
+      rotation: {x: 0.57919246, y: 0.57919264, z: -0.40563038, w: -0.40563038}
+      scale: {x: 15.961512, y: 19.429941, z: 15.961515}
+    - name: Armature
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: 0.047836788, y: 1.3079101, z: 0.61278903}
+      rotation: {x: 0.0072139706, y: -1.1182039e-16, z: 1.1182038e-16, w: 0.999974}
+      scale: {x: 22.956722, y: 22.956724, z: 22.956724}
+    - name: Bone
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.001
+      parentName: Bone
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: -0.0072139683, y: -1.1182033e-16, z: -1.1182033e-16, w: 0.999974}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone.002
+      parentName: Bone.001
+      position: {x: 4.7045896e-26, y: 0.0017948899, z: -6.984919e-12}
+      rotation: {x: 0.03296502, y: -0.0000001191445, z: -0.000000003929735, w: 0.9994565}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone.003
+      parentName: Bone.002
+      position: {x: 2.908408e-18, y: 0.011917043, z: 7.4505804e-11}
+      rotation: {x: -0.020151922, y: 7.139722e-15, z: 0.000000004804593, w: 0.9997969}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.003_end
+      parentName: Bone.003
+      position: {x: -0, y: 0.00875296, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature.001
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: 0.047836788, y: 1.3132501, z: -0.61010325}
+      rotation: {x: 0.9999992, y: -1.1115963e-16, z: 1.1115964e-16, w: 0.0012375868}
+      scale: {x: 22.956722, y: 22.956724, z: 22.956724}
+    - name: Bone
+      parentName: Armature.001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.9756283, y: -2.0804588e-19, z: 1.6811734e-16, w: 0.21942995}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.001
+      parentName: Bone
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: -0.0072139683, y: -1.1182033e-16, z: -1.1182033e-16, w: 0.999974}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone.002
+      parentName: Bone.001
+      position: {x: 4.7045896e-26, y: 0.0017948899, z: -6.984919e-12}
+      rotation: {x: 0.03296502, y: -0.0000001191445, z: -0.000000003929736, w: 0.9994565}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone.003
+      parentName: Bone.002
+      position: {x: 2.0671976e-17, y: 0.011917043, z: 7.4505804e-11}
+      rotation: {x: -0.020151922, y: 7.11891e-15, z: 0.000000004804593, w: 0.9997969}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.003_end
+      parentName: Bone.003
+      position: {x: -0, y: 0.00875296, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature.002
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: 0.047836788, y: 0.728913, z: 0.16282922}
+      rotation: {x: 0.49814332, y: 0.50182205, z: -0.4958335, w: 0.50415975}
+      scale: {x: 22.956722, y: 22.956724, z: 22.956724}
+    - name: Bone
+      parentName: Armature.002
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.001
+      parentName: Bone
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: -0.0072139683, y: -1.1182033e-16, z: -1.1182033e-16, w: 0.999974}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone.002
+      parentName: Bone.001
+      position: {x: 4.7045896e-26, y: 0.0017948899, z: -6.984919e-12}
+      rotation: {x: 0.03296502, y: -0.00000011884601, z: -0.0000000039357326, w: 0.9994565}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone.003
+      parentName: Bone.002
+      position: {x: 1.2281842e-17, y: 0.011917043, z: 7.4505804e-11}
+      rotation: {x: -0.020151922, y: -1.214156e-14, z: 0.000000004804593, w: 0.9997969}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.003_end
+      parentName: Bone.003
+      position: {x: -0, y: 0.00875296, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature.003
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: 0.047836788, y: 0.728913, z: -0.14620711}
+      rotation: {x: 0.49814332, y: 0.50182205, z: -0.4958335, w: 0.50415975}
+      scale: {x: 22.956722, y: 22.956724, z: 22.956724}
+    - name: Bone
+      parentName: Armature.003
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.001
+      parentName: Bone
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: -0.0072139683, y: -1.1182033e-16, z: -1.1182033e-16, w: 0.999974}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone.002
+      parentName: Bone.001
+      position: {x: 4.7045896e-26, y: 0.0017948899, z: -6.984919e-12}
+      rotation: {x: 0.03296502, y: -0.00000011884601, z: -0.0000000039357326, w: 0.9994565}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone.003
+      parentName: Bone.002
+      position: {x: 1.2281842e-17, y: 0.011917043, z: 7.4505804e-11}
+      rotation: {x: -0.020151922, y: -1.214156e-14, z: 0.000000004804593, w: 0.9997969}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.003_end
+      parentName: Bone.003
+      position: {x: -0, y: 0.00875296, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Plane.006
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: -0.7653044, y: 2.01102, z: 0.010459142}
+      rotation: {x: -0.40732735, y: -0.5780004, z: 0.5780004, w: 0.40732726}
+      scale: {x: 8.547361, y: 8.547361, z: 8.547361}
+    - name: Cube.002
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: 0.037084356, y: 1.3014482, z: 0.60968655}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 7.417736, y: 7.417736, z: 7.417736}
+    - name: Cube.003
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: 0.037084356, y: 1.3138098, z: -0.60791695}
+      rotation: {x: 0.70615256, y: -1.5700912e-16, z: 1.5700912e-16, w: 0.7080597}
+      scale: {x: 7.417736, y: 7.4177365, z: 7.4177365}
+    - name: Cube.004
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: 0.037084356, y: 0.7078312, z: 0.17054826}
+      rotation: {x: -0.00084713893, y: -1.10928216e-16, z: 1.10928216e-16, w: 0.99999964}
+      scale: {x: 7.417736, y: 7.417736, z: 7.417736}
+    - name: Cube.005
+      parentName: PlayerLamp3(1)(Clone)
+      position: {x: 0.037084356, y: 0.69753003, z: -0.14106345}
+      rotation: {x: -0.00084713893, y: -1.10928216e-16, z: 1.10928216e-16, w: 0.99999964}
+      scale: {x: 7.417736, y: 7.417736, z: 7.417736}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Cube.002
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
